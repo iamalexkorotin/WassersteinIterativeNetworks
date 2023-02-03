@@ -5,6 +5,10 @@ The repository contains the code for the proposed **(1) iterative neural algorit
 
 <p align="center"><img src="pics/ave_celeba_teaser.png" width="400" /></p>
 
+## Presentations
+- [Lightning talk](https://www.youtube.com/live/mPpt4qBMIj4) at [NeurIPS 2022](https://nips.cc/Conferences/2022) (December 2022, EN);
+- [Talk](https://www.youtube.com/watch?v=kqf3ilRw1m8) at [AIRI](https://airi.net/) workshop (15 December 2022, RU);
+
 ## Pre-requisites
 The implementation is GPU-based. In the exeriments, we use from 1 to 4 GPUs 1080ti. Tested with
 
